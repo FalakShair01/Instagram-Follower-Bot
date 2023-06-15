@@ -13,9 +13,8 @@ Before running the script, make sure you have the following installed:
 ## Setup
 
 1. Clone or download the project files to your local machine.
-2. Install the necessary dependencies by running `pip install -r requirements.txt`.
-3. Download the ChromeDriver executable and specify its path by setting the `CHROME_DRIVER_PATH` variable in the script to the correct path on your system.
-4. Open the script file in a text editor and set the following variables:
+2. Download the ChromeDriver executable and specify its path by setting the `CHROME_DRIVER_PATH` variable in the script to the correct path on your system.
+3. Open the script file in a text editor and set the following variables:
    - `SIMILAR_ACCOUNT`: The Instagram account for which you want to find and follow the followers.
    - `EMAIL`: Your Instagram username or email address.
    - `PASSWORD`: Your Instagram password.
@@ -24,7 +23,7 @@ Before running the script, make sure you have the following installed:
 
 To use the Instagram Follower Bot, follow these steps:
 
-1. Run the script by executing the command `python insta_follower.py`.
+1. Run the script by executing the command `python main.py`.
 2. The script will open a Chrome browser window and navigate to the Instagram login page.
 3. After a few seconds, the script will automatically fill in the login form with the provided credentials and submit it.
 4. Once logged in, the script will close any popups that appear (such as the "Save Login Info" and "Turn on Notifications" prompts).
