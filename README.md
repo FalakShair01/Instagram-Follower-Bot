@@ -45,4 +45,4 @@ To use the Instagram Follower Bot, follow these steps:
 
 ## Disclaimer
 
-This project is for educational purposes only. The use of automated tools on social media platforms may violate the terms of service of those platforms. Use this script responsibly and at your own risk. The developer and OpenAI are not responsible for any misuse or consequences caused by the usage of this script.
+This project is for educational purposes only. The use of automated tools on social media platforms may violate the terms of service of those platforms. Use this script responsibly and at your own risk. The developer is not responsible for any misuse or consequences caused by the usage of this script.
